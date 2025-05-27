@@ -5,10 +5,15 @@ A Streamlit web app that allows you to upload CSV files, clean them, visualize d
 🚀 Features
 
 📤 Upload CSV data and preview it
+
 🧼 Automatic data cleaning (dates, durations, missing values, text standardization)
+
 📊 Interactive charts (Histogram, Box Plot, Bar, Pie, Line, Scatter)
+
 📈 Correlation analysis with heatmaps
+
 🛠️ Custom XY chart builder
+
 🧠 AI-generated bullet-point insights powered by HuggingFace's zephyr-7b-beta
 
 👩‍💻 Author
